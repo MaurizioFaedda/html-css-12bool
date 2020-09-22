@@ -14,59 +14,55 @@
     background-color: black;
 }
 
-.col-1.alien1{
+
+
+
+.col-1.alien1, .col-1.alien11{
     background-color: #41e03f;
     height: 60px;
     margin-top: 80px;
     margin-bottom: 20px;
 }
-.col-1.alien2{
+.col-1.alien2, .col-1.alien10{
     background-color: #41e03f;
     height: 40px;
     margin-top: 60px;
     margin-bottom: 60px;
 }
-.alien3-1{
+.alien3-1, .alien9-1{
     background-color: #41e03f;
     height: 20px;
     margin-top: 0px;
     margin-bottom: 20px;
 }
-.alien3-3{
+.alien3-3, .alien9-3{
     background-color: #41e03f;
     height: 100px;
     margin-bottom: 20px;
 }
-/* .col-1.bx4{
+.alien4-2, .alien8-2{
     background-color: #41e03f;
-    height: 60px;
-    margin-top: 80px;
+    height: 40px;
+    margin-top: 20px;
     margin-bottom: 20px;
 }
-.col-1.bx5{
+.alien4-5, .alien8-5 {
     background-color: #41e03f;
-    height: 60px;
-    margin-top: 80px;
+    height: 40px;
     margin-bottom: 20px;
 }
-.col-1.bx6{
+.alien4-8, .alien5-8, .alien7-8, .alien8-8{
     background-color: #41e03f;
-    height: 60px;
-    margin-top: 80px;
+    height: 20px;
+    margin-bottom: 0px;
+}
+.alien5-3, .alien6, .alien7-3  {
+    background-color: #41e03f;
+    height: 80px;
+    margin-top: 40px;
     margin-bottom: 20px;
 }
-.col-1.bx7{
-    background-color: #41e03f;
-    height: 60px;
-    margin-top: 80px;
-    margin-bottom: 20px;
-}
-.col-1.bx8{
-    background-color: #41e03f;
-    height: 60px;
-    margin-top: 80px;
-    margin-bottom: 20px;
-}
+
 .col-1.bx9{
     background-color: #41e03f;
     height: 60px;
@@ -90,4 +86,4 @@
     height: 60px;
     margin-top: 80px;
     margin-bottom: 20px;
-} */
+}
