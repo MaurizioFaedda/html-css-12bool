@@ -1,7 +1,12 @@
 
-
+body {
+    background-image: url(https://cdn.tutsplus.com/gamedev/uploads/legacy/043_freeShmupSprites/Free_Shmup_Sprites_Starfield.png);
+}
 [class*="col-"] {
     height: 200px;
+}
+
+
 }
 
 .container {
@@ -10,7 +15,7 @@
 }
 
 .col-4 {
-    background-color: black;
+    /* background-color: black; */
 }
 
 
