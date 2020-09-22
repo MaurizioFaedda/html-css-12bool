@@ -1,5 +1,7 @@
+
+
 [class*="col-"] {
-    height: 100px;
+    height: 200px;
 }
 
 .container {
@@ -7,14 +9,13 @@
     /* border: 1px solid black; */
 }
 
-
-.col-12 {
-    background-color: blue;
-    width: calc(100% - 3px);
-}
-
 .col-4 {
     background-color: black;
-    margin-right: 1px;
+}
 
+.col-1.bx1{
+    background-color: #41e03f;
+    height: 60px;
+    margin-top: 80px;
+    margin-bottom: 20px;
 }
